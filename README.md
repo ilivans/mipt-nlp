@@ -1,2 +1,2 @@
 # nlp-mipt
-Assignments on Natural Language Processing course, MIPT, 2016
+Assignments for Natural Language Processing course, MIPT, 2016
